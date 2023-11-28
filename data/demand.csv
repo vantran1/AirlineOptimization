@@ -1,0 +1,2 @@
+#TODO: Demand Matrix between city pairs
+#TODO: Perhaps we assume that D ~ Normal(mu, sigma) and then randomly initialize demands
